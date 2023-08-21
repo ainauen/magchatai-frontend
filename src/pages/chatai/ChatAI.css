@@ -1,0 +1,31 @@
+.custom{
+    margin-top: 20px;
+}
+.chatHeader{
+    color:rgb(218, 232, 243);
+    font-size: 20px;
+}
+.inputbox{
+    background-color: black;
+    color:aliceblue;
+    width: 80vw;
+    padding: 15px;
+}
+.outputLabel{
+    color:rgb(209, 218, 226);
+}
+.outputArea{
+    width: 80vw;
+    height: 60vh;
+    background-color: black;
+    color:aliceblue;
+    margin-bottom: 30px;
+    padding: 15px;
+    white-space: pre-line;
+}
+/* input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  } */
